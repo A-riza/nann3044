@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
@@ -34,11 +35,11 @@
 <div class="w3-content w3-padding-xlarge w3-margin-top" id="portfolio">
 
   <!-- Images (Portfolio) -->
-  <img src="2.jpg" alt="2" class="w3-image" width="1000" height="500">
-  <img src="3.jpg" alt="3" class="w3-image w3-margin-top" width="1000" height="500">
-  <img src="4.jpg" alt="4" class="w3-image w3-margin-top" width="1000" height="500">
-  <img src="5.jpg" alt="5" class="w3-image w3-margin-top" width="1000" height="500">
-  <img src="6.jpg" alt="6" class="w3-image w3-margin-top" width="1000" height="500">
+  <img src="ocean.jpg" alt="Ocean" class="w3-image" width="1000" height="500">
+  <img src="ocean2.jpg" alt="Ocean II" class="w3-image w3-margin-top" width="1000" height="500">
+  <img src="falls2.jpg" alt="Falls" class="w3-image w3-margin-top" width="1000" height="500">
+  <img src="mountainskies.jpg" alt="Skies" class="w3-image w3-margin-top" width="1000" height="500">
+  <img src="mountains2.jpg" alt="Mountains" class="w3-image w3-margin-top" width="1000" height="500">
 
   <!-- Contact -->
   <div class="w3-light-grey w3-padding-xlarge w3-padding-32 w3-margin-top" id="contact">
